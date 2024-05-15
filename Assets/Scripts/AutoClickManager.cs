@@ -5,6 +5,7 @@ using TMPro;
 
 public class AutoClickManager : MonoBehaviour
 {
+    public Pawn[] pawnPrefabs; 
     public List<float> autoClicker = new List<float>();
     public int autoClickerPrice;
     public TextMeshProUGUI quantityText;

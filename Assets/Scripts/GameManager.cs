@@ -7,6 +7,7 @@ using TMPro;
 public class GameManager : MonoBehaviour
 {
     public int money;
+    public int currentPawnTier;
     public TextMeshProUGUI moneyText;
 
     public static GameManager instance;
