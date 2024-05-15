@@ -1,5 +1,15 @@
 # UnityClickerTest
-# UnityClickerTest
-# UnityClickerTest
-# UnityClickerTest
-# UnityClickerTest
+유니티로 제작하고 있는 Idle Game(Clicker Game)
+
+##화면 구성
+1. 전투 화면(메인 화면)
+2. 스킬 화면
+3. 퀘스트 화면
+4. 프리미엄 상점(현질)
+5. 설정
+
+***
+### 전투화면
+- 클릭 시 전투 데미지를 줄 수 있는 화면.
+- 병사(자동 클릭) 구매
+- 가지고 있는 현금 단위 보기
